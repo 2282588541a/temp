@@ -1,0 +1,48 @@
+
+dpython:S11920"GDefine a constant instead of duplicating this literal "\nUID:" 4 times.(—À–ÿÿÿÿÿ
+epython:S1192"LDefine a constant instead of duplicating this literal "&Chanjh.com" 3 times.(¤ô®Ä
+qpython:S117("URename this parameter "classInfo" to match the regular expression ^[_a-z][a-z0-9_]*$.(©º¯æüÿÿÿÿ
+vpython:S117+"ZRename this local variable "className" to match the regular expression ^[_a-z][a-z0-9_]*$.(Á¶Ã÷úÿÿÿÿ
+opython:S117,"XRename this local variable "endTime" to match the regular expression ^[_a-z][a-z0-9_]*$.(…àÜª
+spython:S117/"\Rename this local variable "eventString" to match the regular expression ^[_a-z][a-z0-9_]*$.(µ’äñ
+ppython:S117-"ZRename this local variable "startTime" to match the regular expression ^[_a-z][a-z0-9_]*$.(ƒïÁz
+qpython:S1542("TRename function "classICSCreate" to match the regular expression ^[a-z_][a-z0-9_]*$.(©º¯æüÿÿÿÿ
+ppython:S117G"ZRename this local variable "classInfo" to match the regular expression ^[_a-z][a-z0-9_]*$.(ºßûB
+vpython:S117I"ZRename this local variable "className" to match the regular expression ^[_a-z][a-z0-9_]*$.(Á¶Ã÷úÿÿÿÿ
+opython:S117J"XRename this local variable "endTime" to match the regular expression ^[_a-z][a-z0-9_]*$.(…àÜª
+spython:S117F"\Rename this local variable "eventString" to match the regular expression ^[_a-z][a-z0-9_]*$.(øÿù•
+qpython:S117D"ZRename this local variable "icsString" to match the regular expression ^[_a-z][a-z0-9_]*$.(¢‘²
+ppython:S117K"ZRename this local variable "startTime" to match the regular expression ^[_a-z][a-z0-9_]*$.(ƒïÁz
+spython:S1542C"VRename function "icsCreateAndSave" to match the regular expression ^[a-z_][a-z0-9_]*$.(ßÖİ“üÿÿÿÿ
+vpython:S117†"YRename this local variable "UID_List" to match the regular expression ^[_a-z][a-z0-9_]*$.(ç¬¢Üûÿÿÿÿ
+ppython:S117d"ZRename this local variable "classInfo" to match the regular expression ^[_a-z][a-z0-9_]*$.(ºßûB
+rpython:S117k"[Rename this local variable "dateLength" to match the regular expression ^[_a-z][a-z0-9_]*$.(İÍ®Õ
+upython:S117u"YRename this local variable "dateList" to match the regular expression ^[_a-z][a-z0-9_]*$.(™ååˆûÿÿÿÿ
+npython:S117q"XRename this local variable "endDate" to match the regular expression ^[_a-z][a-z0-9_]*$.(µöÄ3
+npython:S117h"XRename this local variable "endWeek" to match the regular expression ^[_a-z][a-z0-9_]*$.(¬“¼J
+qpython:S117l"ZRename this local variable "startDate" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ïâã
+vpython:S117g"ZRename this local variable "startWeek" to match the regular expression ^[_a-z][a-z0-9_]*$.(¾ ¥²ıÿÿÿÿ
+rpython:S1542_"URename function "classInfoHandle" to match the regular expression ^[a-z_][a-z0-9_]*$.(€óâùúÿÿÿÿ
+npython:S1542"PRename function "UID_Create" to match the regular expression ^[a-z_][a-z0-9_]*$.(Ü™“Üúÿÿÿÿ
+hpython:S1542‘"PRename function "CreateTime" to match the regular expression ^[a-z_][a-z0-9_]*$.(„°¾U
+ppython:S1542"RRename function "uniteSetting" to match the regular expression ^[a-z_][a-z0-9_]*$.(Õé´èüÿÿÿÿ
+ppython:S1542§"RRename function "setClassTime" to match the regular expression ^[a-z_][a-z0-9_]*$.(à½ÜŞüÿÿÿÿ
+kpython:S1542´"RRename function "setClassInfo" to match the regular expression ^[a-z_][a-z0-9_]*$.(èò¤
+qpython:S117½"YRename this parameter "firstWeekDate" to match the regular expression ^[_a-z][a-z0-9_]*$.(†Ú„‰
+opython:S1542½"VRename function "setFirstWeekDate" to match the regular expression ^[a-z_][a-z0-9_]*$.(†Ú„‰
+upython:S117Å"]Rename this local variable "reminderList" to match the regular expression ^[_a-z][a-z0-9_]*$.(øŞ»¹
+opython:S1542Ã"QRename function "setReminder" to match the regular expression ^[a-z_][a-z0-9_]*$.(äª–Ïıÿÿÿÿ
+mpython:S117Ú"URename this local variable "List" to match the regular expression ^[_a-z][a-z0-9_]*$.(İğÏå
+qpython:S1542Ö"SRename function "checkReminder" to match the regular expression ^[a-z_][a-z0-9_]*$.(Íµ½ûÿÿÿÿ
+vpython:S117é"YRename this local variable "dateList" to match the regular expression ^[_a-z][a-z0-9_]*$.(«²ƒöûÿÿÿÿ
+vpython:S117á"YRename this parameter "firstWeekDate" to match the regular expression ^[_a-z][a-z0-9_]*$.(çŞøĞşÿÿÿÿ
+vpython:S1542á"XRename function "checkFirstWeekDate" to match the regular expression ^[a-z_][a-z0-9_]*$.(çŞøĞşÿÿÿÿ
+{python:S117ÿ"^Rename this local variable "firstWeekDate" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ü¿Òşÿÿÿÿ
+ppython:S1542ù"RRename function "basicSetting" to match the regular expression ^[a-z_][a-z0-9_]*$.(·™¢£üÿÿÿÿ
+Upython:S5754‡"<Specify an exception class to catch or reraise the exception(ˆÊÉ·
+Upython:S5754"<Specify an exception class to catch or reraise the exception(ˆÊÉ·
+mpython:S117˜"URename this parameter "checkType" to match the regular expression ^[_a-z][a-z0-9_]*$.(Õ¹Á
+{python:S117"^Rename this local variable "firstWeekDate" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ü¿Òşÿÿÿÿ
+ipython:S1542˜"PRename function "checkInput" to match the regular expression ^[a-z_][a-z0-9_]*$.(Õ¹Á
+Cpython:S1481³"%Remove the unused local variable "i".(Ûú¿ˆıÿÿÿÿ
+Dpython:S5806¯"+Rename this variable; it shadows a builtin.(™—ß

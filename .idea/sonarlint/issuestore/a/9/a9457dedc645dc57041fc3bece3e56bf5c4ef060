@@ -1,0 +1,27 @@
+
+‚python:S117#"_Rename this local variable "classInfoArray" to match the regular expression ^[_a-z][a-z0-9_]*$.(§ÎØëıÿÿÿÿ8ã¼®Ìş/
+€python:S117""]Rename this local variable "classInfoStr" to match the regular expression ^[_a-z][a-z0-9_]*$.(éØ­øÿÿÿÿ8ä¼®Ìş/
+xpython:S117N"ZRename this local variable "className" to match the regular expression ^[_a-z][a-z0-9_]*$.(ßº“ë8å¼®Ìş/
+|python:S117&"^Rename this local variable "classNameList" to match the regular expression ^[_a-z][a-z0-9_]*$.(Á¡Àâ8å¼®Ìş/
+{python:S117*"^Rename this local variable "classTimeList" to match the regular expression ^[_a-z][a-z0-9_]*$.(°ó{8å¼®Ìş/
+|python:S117+"^Rename this local variable "classroomList" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÿÒş³8å¼®Ìş/
+ypython:S117("\Rename this local variable "endWeekList" to match the regular expression ^[_a-z][a-z0-9_]*$.(¡)8å¼®Ìş/
+{python:S117 "XRename this local variable "headStr" to match the regular expression ^[_a-z][a-z0-9_]*$.(ùÊûêÿÿÿÿÿ8å¼®Ìş/
+„python:S117O"aRename this local variable "itemClassInfoStr" to match the regular expression ^[_a-z][a-z0-9_]*$.(¿·‚Áúÿÿÿÿ8æ¼®Ìş/
+zpython:S117J"\Rename this local variable "itemHeadStr" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ÿä£ª8æ¼®Ìş/
+python:S117K"\Rename this local variable "itemTailStr" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ÿ§îøÿÿÿÿ8æ¼®Ìş/
+wpython:S117"YRename this local variable "numOfCol" to match the regular expression ^[_a-z][a-z0-9_]*$.(‡£’8æ¼®Ìş/
+|python:S117"YRename this local variable "numOfRow" to match the regular expression ^[_a-z][a-z0-9_]*$.(ªÄÀØùÿÿÿÿ8æ¼®Ìş/
+python:S117'"^Rename this local variable "startWeekList" to match the regular expression ^[_a-z][a-z0-9_]*$.(›„¾ˆùÿÿÿÿ8æ¼®Ìş/
+vpython:S117!"XRename this local variable "tailStr" to match the regular expression ^[_a-z][a-z0-9_]*$.(ı˜¬½8æ¼®Ìş/
+zpython:S117)"\Rename this local variable "weekdayList" to match the regular expression ^[_a-z][a-z0-9_]*$.(·ÉÓ°8æ¼®Ìş/
+Vpython:S1481#"2Remove the unused local variable "classInfoArray".(§ÎØëıÿÿÿÿ8ç¼®Ìş/
+Kpython:S1481",Remove the unused local variable "numOfCol".(‡£’8ç¼®Ìş/
+Hpython:S1481?")Remove the unused local variable "index".(Ïò¡¶8ç¼®Ìş/
+=python:S125"Remove this commented out code.(Í€è¥8ç¼®Ìş/
+Bpython:S125$"Remove this commented out code.(çß–®ıÿÿÿÿ8ç¼®Ìş/
+=python:S1256"Remove this commented out code.(£÷†8ç¼®Ìş/
+=python:S125;"Remove this commented out code.(³ÔíŸ8ç¼®Ìş/
+Epython:S1110A"!Remove those useless parentheses.(Ì¢²úûÿÿÿÿ8ê¼®Ìş/
+Epython:S1110F"!Remove those useless parentheses.(šü©Äúÿÿÿÿ8ê¼®Ìş/
+Bpython:S125\"Remove this commented out code.(Æë¬Šúÿÿÿÿ8ê¼®Ìş/
